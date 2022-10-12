@@ -1,3 +1,3 @@
-# MBID08Visualizaci-n-AG-s
+# MBID08Visualización-Actividades
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-srawaj)
+* [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-srawaj)
